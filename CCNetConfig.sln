@@ -1,6 +1,6 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 10.00
-# Visual Studio 2008
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D783641F-DF08-48EF-8965-516DE5606CFD}"
 	ProjectSection(SolutionItems) = preProject
 		CCNetConfigFull.msbuild = CCNetConfigFull.msbuild
@@ -25,36 +25,6 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CCNetConfig.Tests", "CCNetConfig.Tests\CCNetConfig.Tests.csproj", "{E0F777C7-2820-4CB0-84CC-485BCE9E6627}"
 EndProject
 Global
-	GlobalSection(TeamFoundationVersionControl) = preSolution
-		SccNumberOfProjects = 9
-		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
-		SccTeamFoundationServer = https://tfs01.codeplex.com/
-		SccLocalPath0 = .
-		SccProjectUniqueName1 = CCNetConfig.BugTracking\\CCNetConfig.BugTracking.csproj
-		SccProjectName1 = CCNetConfig.BugTracking
-		SccLocalPath1 = CCNetConfig.BugTracking
-		SccProjectUniqueName2 = CCNetConfig.CCNet\\CCNetConfig.CCNet.csproj
-		SccProjectName2 = CCNetConfig.CCNet
-		SccLocalPath2 = CCNetConfig.CCNet
-		SccProjectUniqueName3 = CCNetConfig.Core\\CCNetConfig.Core.csproj
-		SccProjectName3 = CCNetConfig.Core
-		SccLocalPath3 = CCNetConfig.Core
-		SccProjectUniqueName4 = CCNetConfig\\CCNetConfig.csproj
-		SccProjectName4 = CCNetConfig
-		SccLocalPath4 = CCNetConfig
-		SccProjectUniqueName5 = CCNetConfig.Updater\\CCNetConfig.Updater.csproj
-		SccProjectName5 = CCNetConfig.Updater
-		SccLocalPath5 = CCNetConfig.Updater
-		SccProjectUniqueName6 = CCNetConfig.Updater.Core\\CCNetConfig.Updater.Core.csproj
-		SccProjectName6 = CCNetConfig.Updater.Core
-		SccLocalPath6 = CCNetConfig.Updater.Core
-		SccProjectUniqueName7 = CCNetConfigSetup\\CCNetConfigSetup.wixproj
-		SccProjectName7 = CCNetConfigSetup
-		SccLocalPath7 = CCNetConfigSetup
-		SccProjectUniqueName8 = CCNetConfig.Tests\\CCNetConfig.Tests.csproj
-		SccProjectName8 = CCNetConfig.Tests
-		SccLocalPath8 = CCNetConfig.Tests
-	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Debug|Mixed Platforms = Debug|Mixed Platforms
